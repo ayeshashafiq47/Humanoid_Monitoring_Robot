@@ -24,6 +24,8 @@ Open the code file “Camera_Car_with_PanTilt_Control.ino” in Arduino ide and 
 https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
 ## Step # 4:
 Do some setting in Arduino IDE by following the screenshot
+
+![Arduino ide](https://user-images.githubusercontent.com/127689614/224570730-facf4d30-085f-4077-bfa5-4963595d3fed.png)
  
 ## Step # 5:
 Upload the code and integrate the hardware according to the following diagram:
@@ -32,5 +34,8 @@ Upload the code and integrate the hardware according to the following diagram:
 
 
 ## Functionality
+
 This is a WI-FI controlled humanoid robot. It can be controlled using a mobile app. This mobile app can be open by entering an IP address (192.168.4.1) on the browser. Sometimes we might have to reconnect the WI-FI if app does not open. There are four buttons that handles the movement of the car left, right, backward and forward. Then there are buttons for the speed and light control. And we also have button PAN and TILT button. This PAN Button will handle the camera movement in left and right direction. However, TILT Button will handle the camera movement in upward and downward direction. The light button will be used to turn the flash light on and off. Moreover we can increase and decrease the intensity of this flash. The speed button can be used to control the speed of video streaming.
+
+![web view](https://user-images.githubusercontent.com/127689614/224570759-5bf395ff-ed0b-4725-a318-e119d050c4d4.png)
   

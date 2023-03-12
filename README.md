@@ -2,13 +2,13 @@
 ## Introduction
 A humanoid monitoring robot that is designed to resemble humans in form, movement, performance and functions. Is equipped with cameras, servo motors, rechargeable batteries and other devices. These robots are typically used for surveillance, monitoring, and data collection purposes in areas where it may not be safe or feasible for humans to enter, such as hazardous environments or disaster zones. They can also be programmed to perform various tasks, such as detecting and tracking human activity, providing assistance in emergency situations, and even providing basic care in healthcare and elderly care settings. The development of humanoid monitoring robots is a rapidly evolving field, with advancements in technology continuously improving their capabilities and potential applications.
 ## Components
-•	ESP32 cam 
-•	Pan Tilt Servo assembly 
-•	SG90 servo motors 
-•	L298N motor driver module 
-•	7-12 V Rechargeable battery 
-•	Ardunio uno
-•	Jumper wires
+-	ESP32 cam 
+-	Pan Tilt Servo assembly 
+-	SG90 servo motors 
+-	L298N motor driver module 
+-	7-12 V Rechargeable battery 
+-	Ardunio uno
+-	Jumper wires
 ## Hardware and software configurations 
 ## Step # 1:
 Download and install Arduino ide through following link

@@ -15,6 +15,9 @@ Download and install Arduino ide through following link
 https://filehippo.com/download_arduino/1.8.16/
 ## Step # 2:
 Connect the Esp32 cam with Arduino uno by following the diagram
+
+![esp32 connection with arduino uno](https://user-images.githubusercontent.com/127689614/224570417-8c8ac7f4-2100-4901-b119-7aa5ba369d8c.png)
+
  
 ## Step # 3:
 Open the code file “Camera_Car_with_PanTilt_Control.ino” in Arduino ide and install esp32cam board in Arduino Ide by following the link 

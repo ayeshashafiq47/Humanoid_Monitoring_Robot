@@ -25,12 +25,7 @@ Do some setting in Arduino IDE by following the screenshot
 ## Step # 5:
 Upload the code and integrate the hardware according to the following diagram:
 
-
-
-
-
-
- 
+![Camera Car With PanTilt Control](https://user-images.githubusercontent.com/127689614/224570334-194e6c94-ae19-47ca-90ac-a855c633c94f.png)
 
 
 ## Functionality
